@@ -21,3 +21,9 @@ body {
     font-size: 4rem;
     color: #E98074;
 }
+
+.container h3 {
+    font-family: monospace;
+    font-size: 1.3rem;
+    margin-left: 10px;
+}

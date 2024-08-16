@@ -27,3 +27,7 @@ body {
     font-size: 1.3rem;
     margin-left: 10px;
 }
+
+.container ul a {
+    text-decoration: none;
+}

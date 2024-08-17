@@ -15,6 +15,9 @@ h1 {
     border-radius: 1rem;
     font-family: monospace;
 }
+.presentation-container p {
+    font-size: 1rem;
+}
 .presentation-container img {
     display: block;
     margin-left: auto;

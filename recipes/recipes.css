@@ -54,3 +54,6 @@ h1 {
 .steps-container li {
     margin-bottom: 1rem;
 }
+.steps-container img {
+    margin-bottom: 2rem;
+}

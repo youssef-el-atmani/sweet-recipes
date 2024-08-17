@@ -30,3 +30,7 @@ h1 {
     font-size: 1.1rem;
     margin-bottom: 0;
 }
+/* Ingredient-part */
+.ingredient-container {
+    background-color: #E98074;
+}

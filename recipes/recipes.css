@@ -31,6 +31,7 @@ h1 {
     margin-bottom: 0;
 }
 /* Ingredient-part */
+.steps-container,
 .ingredient-container {
     background-color: #E98074;
     padding: 20px;
@@ -38,6 +39,7 @@ h1 {
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
+.steps-container li,
 .ingredient-container li {
     margin-bottom: 0.3rem;
     color: white;
@@ -45,3 +47,4 @@ h1 {
     font-family: monospace;
     font-size: 1rem;
 }
+/* Steps part */

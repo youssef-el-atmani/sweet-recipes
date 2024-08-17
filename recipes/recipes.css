@@ -48,3 +48,6 @@ h1 {
     font-size: 1rem;
 }
 /* Steps part */
+.steps-container {
+    background-color: #d8c3a5;
+}

@@ -57,4 +57,6 @@ h1 {
 .steps-container img {
     margin-bottom: 2rem;
     box-shadow: rgb(255, 255, 255) 0px 0px 30px;
+    border-radius: 10px;
+    border: #d8c3a5 solid 3px;
 }

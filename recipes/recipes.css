@@ -60,3 +60,8 @@ h1 {
     border-radius: 10px;
     border: #d8c3a5 solid 3px;
 }
+
+.ingredient-container h3,
+.steps-container h3 {
+    text-align: center;
+}

@@ -83,3 +83,9 @@ h1 {
     color: white;
     background-color: #e85a4f;
 }
+
+.up-btn {
+    display: block;
+    width: 50px;
+    margin-left: auto;
+}

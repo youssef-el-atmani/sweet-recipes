@@ -34,4 +34,5 @@ h1 {
 .ingredient-container {
     background-color: #E98074;
     padding: 20px;
+    border-radius: 0 2rem;
 }

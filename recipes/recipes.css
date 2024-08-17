@@ -67,3 +67,19 @@ h1 {
     font-family: 'Courier New', Courier, monospace;
     font-size: x-large;
 }
+/* home anchor: the link that go back to home page */
+.home-anchor {
+    text-decoration: none;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 2px solid #e85a4f;
+    border-radius: 7px;
+    padding: 5px;
+    display: inline-block;
+    margin: 1rem;
+}
+
+.home-anchor:hover {
+    color: white;
+    background-color: #e85a4f;
+}

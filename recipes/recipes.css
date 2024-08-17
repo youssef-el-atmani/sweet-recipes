@@ -33,4 +33,5 @@ h1 {
 /* Ingredient-part */
 .ingredient-container {
     background-color: #E98074;
+    padding: 20px;
 }
